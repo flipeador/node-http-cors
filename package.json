@@ -1,0 +1,29 @@
+{
+  "name": "@flipeador/node-http-cors",
+  "description": "Provides an easier way to handle Cross-origin Resource Sharing (CORS).",
+  "version": "1.0.0",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "middleware",
+    "cross-origin-resource-sharing",
+    "http-cors",
+    "expressjs"
+  ],
+  "license": "gpl-3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipeador/node-http-cors.git"
+  },
+  "author": "Flipeador (https://github.com/flipeador)",
+  "bugs": {
+    "url": "https://github.com/flipeador/node-http-cors/issues"
+  },
+  "homepage": "https://github.com/flipeador/node-http-cors#readme",
+  "type": "module",
+  "sourceType": "module"
+}
