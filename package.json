@@ -1,0 +1,17 @@
+{
+  "name": "@flipeador/node-http-cors",
+  "description": "Simplifies the handling of Cross-origin Resource Sharing.",
+  "version": "1.0.0",
+  "author": "Flipeador (https://github.com/flipeador)",
+  "repository": "github:flipeador/node-http-cors",
+  "license": "Apache-2.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test test/",
+    "lint": "eslint ."
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
